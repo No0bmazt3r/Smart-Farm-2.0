@@ -1,0 +1,8 @@
+{
+  "name": "Smart Farm IoT Dashboard",
+  "description": "A live-syncing dashboard for smart farm monitoring, featuring real-time sensor data, irrigation control status, and system alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
